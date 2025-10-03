@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Site de Estudos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Meu Site de Estudos</h1>
+    <nav>
+      <a href="#" id="home-link">Início</a>
+      <a href="#" id="subjects-link">Matérias</a>
+      <a href="#" id="notes-link">Notas</a>
+    </nav>
+  </header>
+  <main id="main-content">
+    <!-- Conteúdo será carregado aqui -->
+  </main>
+  <footer>
+    <p>&copy; 2025 - Site de Estudos</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
